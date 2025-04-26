@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<turma>
+<id>e94ba7cf-bce7-4845-a13c-dda3a1472f30</id>
+<nome>Turma de Programação Java</nome>
+<dataInicio>Thu Feb 08 00:00:00 BRST 2001</dataInicio>
+<professor>
+<id>983063cc-4d3e-460a-833c-db5393e4db83</id>
+<nome>Sergio</nome>
+<email>sergio@coti.com</email>
+<telefone>34893148</telefone>
+</professor>
+<curso>
+<codigo>516cd1f4-b6c4-44af-b0a2-1a6d563ec8e9</codigo>
+<nome>Curso FullStack Java</nome>
+<cargaHoraria>96</cargaHoraria>
+</curso>
+</turma>
